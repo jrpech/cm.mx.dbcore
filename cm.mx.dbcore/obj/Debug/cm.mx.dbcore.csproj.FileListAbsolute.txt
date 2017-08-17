@@ -1,0 +1,24 @@
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\cm.mx.dbcore.dll
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\cm.mx.dbcore.pdb
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\FluentNHibernate.dll
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\Iesi.Collections.dll
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\NHibernate.dll
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\FluentNHibernate.pdb
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\FluentNHibernate.xml
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\Iesi.Collections.xml
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\NHibernate.xml
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.csprojResolveAssemblyReference.cache
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.dll
+C:\Users\Jorge R\Documents\Visual Studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.pdb
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\cm.mx.dbcore.dll
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\cm.mx.dbcore.pdb
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\FluentNHibernate.dll
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\Iesi.Collections.dll
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\NHibernate.dll
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\FluentNHibernate.pdb
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\FluentNHibernate.xml
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\Iesi.Collections.xml
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\NHibernate.xml
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.csprojResolveAssemblyReference.cache
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.dll
+C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.pdb
