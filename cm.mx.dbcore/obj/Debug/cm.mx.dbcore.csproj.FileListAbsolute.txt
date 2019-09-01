@@ -22,3 +22,15 @@ C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\NHibernate.xml
 C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.csprojResolveAssemblyReference.cache
 C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.dll
 C:\NET\cenis\Proyectos\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.pdb
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\cm.mx.dbcore.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\cm.mx.dbcore.pdb
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\FluentNHibernate.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\Iesi.Collections.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\NHibernate.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\FluentNHibernate.pdb
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\FluentNHibernate.xml
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\Iesi.Collections.xml
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Debug\NHibernate.xml
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.pdb
+\\mac\home\documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\obj\Debug\cm.mx.dbcore.csprojResolveAssemblyReference.cache
