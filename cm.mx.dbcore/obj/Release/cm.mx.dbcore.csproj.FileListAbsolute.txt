@@ -10,3 +10,22 @@ C:\Users\Jorge R\documents\visual studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore
 C:\Users\Jorge R\documents\visual studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\obj\Release\cm.mx.dbcore.csprojResolveAssemblyReference.cache
 C:\Users\Jorge R\documents\visual studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\obj\Release\cm.mx.dbcore.dll
 C:\Users\Jorge R\documents\visual studio 2015\Projects\cm.mx.dbcore\cm.mx.dbcore\obj\Release\cm.mx.dbcore.pdb
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\cm.mx.dbcore.dll.config
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\cm.mx.dbcore.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\cm.mx.dbcore.pdb
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\Antlr3.Runtime.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\FluentNHibernate.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\Iesi.Collections.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\NHibernate.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\Remotion.Linq.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\Remotion.Linq.EagerFetching.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\Antlr3.Runtime.xml
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\FluentNHibernate.pdb
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\FluentNHibernate.xml
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\Iesi.Collections.xml
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\NHibernate.xml
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\Remotion.Linq.xml
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\bin\Release\Remotion.Linq.EagerFetching.xml
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\obj\Release\cm.mx.dbcore.csprojResolveAssemblyReference.cache
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\obj\Release\cm.mx.dbcore.dll
+\\Mac\Home\Documents\SmartGit\cm.mx.dbcore\cm.mx.dbcore\obj\Release\cm.mx.dbcore.pdb

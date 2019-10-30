@@ -58,8 +58,9 @@ namespace cm.mx.dbCore.Clases
 			{				
 				this.Errores.Clear();
 				this.Mensajes.Clear();
-                this._session = this.createContext(_session);
-				this._exito = true;
+                if (_session == null || !_session.IsOpen)
+                    this._session = this.createContext(_session);
+                this._exito = true;
 				
 			}
 			catch (Exception innerException)

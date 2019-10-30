@@ -15,6 +15,9 @@ namespace cm.mx.dbCore.Helper
 {
     public class ConnectionHelper
     {
+        private static object syncRoot = new Object();
+        private static volatile ISessionFactory iSessionFactory;
+
         public static ISession GetConnection<T>(string Server, string DataBase, string Usuario, string Password)
         {
 
@@ -26,12 +29,12 @@ namespace cm.mx.dbCore.Helper
             string _showSql = string.Empty;
             string _generateStatistics = string.Empty;
             NHibernate.Cfg.Configuration nhibernateConfig = new NHibernate.Cfg.Configuration();
-            
+
             _connection_connection_string = _connection_connection_string.Replace("[SERVER]", Server);
             _connection_connection_string = _connection_connection_string.Replace("[DATABASE]", DataBase);
             _connection_connection_string = _connection_connection_string.Replace("[USER]", Usuario);
             _connection_connection_string = _connection_connection_string.Replace("[PASSWORD]", Password);
-            
+
             _dialect = ConfigurationManager.AppSettings["dialect"];
             _connection_driver = ConfigurationManager.AppSettings["connectionDriver"];
             _showSql = ConfigurationManager.AppSettings["showSql"];
@@ -43,9 +46,9 @@ namespace cm.mx.dbCore.Helper
             if (string.IsNullOrEmpty(_generateStatistics))
                 _generateStatistics = "false";
 
-           
 
-            if (string.IsNullOrEmpty(_dialect) )
+
+            if (string.IsNullOrEmpty(_dialect))
             {
                 throw new Exception("The dialect has not been established");
             }
@@ -55,13 +58,22 @@ namespace cm.mx.dbCore.Helper
             nhibernateConfig.Properties[NHibernate.Cfg.Environment.GenerateStatistics] = _generateStatistics;
             nhibernateConfig.Properties[NHibernate.Cfg.Environment.ShowSql] = _show_sql;
 
-            ISessionFactory sfac = Fluently.Configure(nhibernateConfig)
-                .Cache(c => c.UseQueryCache().ProviderClass<HashtableCacheProvider>())
-                .Mappings(m=>m.FluentMappings.AddFromAssemblyOf<T>())
-                .BuildConfiguration()
-                .BuildSessionFactory();
+            if (iSessionFactory == null)
+            {
+                lock (syncRoot)
+                {
+                    if (iSessionFactory == null)
+                    {
+                        iSessionFactory = Fluently.Configure(nhibernateConfig)
+                            .Cache(c => c.UseQueryCache().ProviderClass<HashtableCacheProvider>())
+                            .Mappings(m => m.FluentMappings.AddFromAssemblyOf<T>())
+                            .BuildConfiguration()
+                            .BuildSessionFactory();
+                    }
+                }
+            }
 
-            return sfac.OpenSession();
+            return iSessionFactory.OpenSession();
         }
 
     }
